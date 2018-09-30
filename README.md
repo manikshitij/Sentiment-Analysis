@@ -2,14 +2,14 @@
 
 ## Dependencies
 The code has two dependencies which are as follows - 
-*sklearn
-*re
+1.sklearn
+2.re
 
 For downloading and installing depeindencies two files are give on for windows and the other one for linux enviroment. They are named `dependencies_win.bat` and `dependencies_lin.sh`
 Run the files on your respective system to resolve any dependency issue.
 
 
-Download the data in the file `aclImdb_v1.tar.gz`
+Download the data in the file `aclImdb_v1.tar.gz`<br>
 **We have to organize the file before using it to train our system.**
 
 ## Organising Data
@@ -24,7 +24,7 @@ Move the contents of the Movie_data folder generated to a directory named **_dat
 You may now download the Jupyter Notebook named `Sentiment analysis of Movie Review.ipynb` and connect it to a python kernel.
 The Jupyter Notebook is provided for the fast understanding and change of code.
 
-**OR
+**OR**
 
 You may download the `.py` file and run it through the terminal.
 The terminal may look stuck for a long time - **this is becuse the data manipulation on so many files takes some time and is fairly normal** , the code is working just fine.
