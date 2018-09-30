@@ -10,7 +10,7 @@ Run the files on your respective system to resolve any dependency issue.
 
 
 Download the data in the file `aclImdb_v1.tar.gz`<br>
-The data can alse be downloaded from the original source<a href ="http://ai.stanford.edu/~amaas/data/sentiment/">here</a>.<br>
+The data can alse be downloaded from the original source <a href ="http://ai.stanford.edu/~amaas/data/sentiment/">here</a>.<br>
 **We have to organize the file before using it to train our system.**
 
 ## Organising Data
