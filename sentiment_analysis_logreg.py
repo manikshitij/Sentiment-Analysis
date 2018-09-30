@@ -30,7 +30,7 @@ def preprocess_reviews(reviews):
 
 #function to test human generated review for cross validation
 def test_new_review(final_model,cv):
-	pred = final_model.predict(cv.transform([input()]))[0]
+	pred = final_model.predict(cv.transform([input("Enter Your Own Review :")]))[0]
 	if(pred == 0):
 		print("Negative Review!")
 	else:
