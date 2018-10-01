@@ -5,7 +5,7 @@ The code has two dependencies which are as follows -
 1.sklearn
 2.re
 
-For downloading and installing depeindencies two files are give on for windows and the other one for linux enviroment. They are named `dependencies_win.bat` and `dependencies_lin.sh`
+For downloading and installing depeindencies two files are given for windows and the other one for linux enviroment. They are named `dependencies_win.bat` and `dependencies_lin.sh`
 Run the files on your respective system to resolve any dependency issue.
 
 
